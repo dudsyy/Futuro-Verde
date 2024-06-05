@@ -1,0 +1,159 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2E4C29;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.header-container {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    max-height: 50px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #006400;
+}
+
+main {
+    padding: 20px;
+}
+
+.recicle-agora, .pesquisas-recorrentes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #faf8f5;
+    margin-bottom: 20px;
+}
+
+.recicle-content, .pesquisas-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.recicle-text, .pesquisas-text {
+    flex: 1;
+}
+
+.recicle-image img, .pesquisas-image img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.pesquisas-image {
+    order: -1;
+    margin-right: 20px;
+}
+
+.articles {
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+}
+
+.article-item {
+    display: flex;
+    align-items: center;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.article-image {
+    flex: 1;
+}
+
+.article-image img {
+    margin-left: 290px;
+    width: 100%;
+    max-width: 300px;  /* Tamanho ajustado */
+    border-radius: 10px;
+}
+
+.article-text {
+    flex: 2;
+    margin-left: 20px;
+}
+
+.article-item h2 {
+    margin-top: 0;
+}
+
+.article-item ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.article-item ul li {
+    margin: 10px 0;
+}
+
+.article-item ul li a {
+    text-decoration: none;
+    color: #006400;
+}
+
+.article-item ul li a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer nav ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+footer nav ul li {
+    margin: 0 15px;
+}
+
+footer nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+footer nav ul li a:hover {
+    text-decoration: underline;
+}
