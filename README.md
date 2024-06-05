@@ -1,5 +1,5 @@
 # FUTURO VERDE | MARIA EDUARDA FRAGOSO DA SILVA |
-Entrega de trabalho referente a | (Usabilidade, Desenvolvimento Web, Mobile e Jogos) (João Felipe Fernandes Coghi)|
+Entrega de trabalho A3 referente a | (Usabilidade, Desenvolvimento Web, Mobile e Jogos) (João Felipe Fernandes Coghi)|
 > [!NOTE]
 >INTEGRANTES
 
@@ -7,7 +7,7 @@ Entrega de trabalho referente a | (Usabilidade, Desenvolvimento Web, Mobile e Jo
 
 ## Visão Geral
 
-O projeto de reciclagem é um site dedicado a promover práticas sustentáveis ​​de reciclagem e conscientização ambiental. Ele utiliza a tecnologia Bento Grid para criar layouts responsivos e modernos.
+O projeto de reciclagem é um site dedicado a promover práticas sustentáveis ​​de reciclagem e conscientização ambiental. Ele utiliza a tecnologia Bento Grid para criar layouts responsivos e modernos. O tema escolhido foi inspirado pelo projeto de extensão que participo, Campus Sustentável
 
 ## Objetivo do Projeto
 
