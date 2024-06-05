@@ -17,7 +17,7 @@ O objetivo principal do projeto é educar o público sobre a importância da rec
 
 1. **Página Inicial:** Apresentação do projeto e sua missão, incluindo estatísticas e informações de impacto ambiental.
 2. **Guias de Reciclagem:** Seções dedicadas a diferentes tipos de materiais recicláveis, com informações sobre como reciclar e suas vantagens.
-3. **Blog:** Artigos e dicas relacionados à reciclagem, atualizados regularmente para engajar os visitantes.
+3. **Blog:** Artigos e dicas relacionados à reciclagem.
 
 ## Tecnologias Utilizadas
 
@@ -26,12 +26,3 @@ O objetivo principal do projeto é educar o público sobre a importância da rec
 - **CSS3:** Estilização e design do site, incluindo animações e efeitos.
 - **JavaScript:** Interatividade e funcionalidades dinâmicas.
 - **GitHub Pages:** Hospedagem do site diretamente do repositório no GitHub.
-
-## Como Contribuir
-
-Se você deseja contribuir para o projeto de reciclagem, siga estas etapas:
-
-1. Faça um fork do repositório.
-2. Implemente suas melhorias ou correções em uma branch separada.
-3. Abra um pull request descrevendo suas alterações e os motivos por trás delas.
-4. Nossa equipe revisará suas contribuições e as integrará ao projeto principal.
