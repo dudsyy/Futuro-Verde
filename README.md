@@ -15,7 +15,7 @@ O objetivo principal do projeto é educar o público sobre a importância da rec
 
 ## Funcionalidades Principais
 
-1. **Página Inicial:** Apresentação do projeto e sua missão, incluindo estatísticas e informações de impacto ambiental.
+1. **Página Inicial:** Apresentação do projeto e sua missão, compromisso e informações de impacto ambiental.
 2. **Guias de Reciclagem:** Seções dedicadas a diferentes tipos de materiais recicláveis, com informações sobre como reciclar e suas vantagens.
 3. **Blog:** Artigos e dicas relacionados à reciclagem.
 
